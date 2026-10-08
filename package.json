@@ -1,0 +1,16 @@
+{
+  "name": "uoc-downloader",
+  "version": "3.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Build folders from UOC Contenidos, review statement availability and learning resources, and save one structured ZIP.",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/test.mjs",
+    "test:browser": "python tests/offline_browser_smoke.py",
+    "pack": "python scripts/package.py"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

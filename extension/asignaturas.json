@@ -1,0 +1,103 @@
+{
+  "base_url": "https://aula.uoc.edu",
+  "semester_folder": "10º Sem",
+  "courses": [
+    {
+      "id": 87938,
+      "folder": "Arquitectura de Computadores",
+      "activities": [
+        "PEC 1",
+        "PEC 2",
+        "PR1",
+        "PR2"
+      ],
+      "overrides": {},
+      "layout": {
+        "version": 3,
+        "scanned": false,
+        "modules": [],
+        "directories": [],
+        "destinations": [],
+        "excludedModules": []
+      }
+    },
+    {
+      "id": 87936,
+      "folder": "Compiladores",
+      "activities": [
+        "PEC 1",
+        "PEC 2",
+        "PEC 3"
+      ],
+      "overrides": {},
+      "layout": {
+        "version": 3,
+        "scanned": false,
+        "modules": [],
+        "directories": [],
+        "destinations": [],
+        "excludedModules": []
+      }
+    },
+    {
+      "id": 93199,
+      "folder": "Fundamentos de sistemas de información",
+      "activities": [
+        "Reto 1",
+        "Reto 2",
+        "Reto 3",
+        "Reto 4"
+      ],
+      "overrides": {},
+      "layout": {
+        "version": 3,
+        "scanned": false,
+        "modules": [],
+        "directories": [],
+        "destinations": [],
+        "excludedModules": []
+      }
+    },
+    {
+      "id": 93208,
+      "folder": "Arquitectura de bases de datos",
+      "activities": [
+        "PEC 1",
+        "PR 1",
+        "PEC 2",
+        "PR 2",
+        "PEC 3"
+      ],
+      "overrides": {},
+      "layout": {
+        "version": 3,
+        "scanned": false,
+        "modules": [],
+        "directories": [],
+        "destinations": [],
+        "excludedModules": []
+      }
+    },
+    {
+      "id": 93214,
+      "folder": "Diseño de estructuras de datos",
+      "activities": [
+        "PR 1",
+        "PEC 1",
+        "PR 2",
+        "PEC 2",
+        "PR 3"
+      ],
+      "overrides": {},
+      "layout": {
+        "version": 3,
+        "scanned": false,
+        "modules": [],
+        "directories": [],
+        "destinations": [],
+        "excludedModules": []
+      }
+    }
+  ],
+  "structure_source": "Canvas Contenidos (modules); activities are legacy labels only, not a folder template"
+}

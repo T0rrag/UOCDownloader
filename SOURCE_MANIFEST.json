@@ -1,0 +1,202 @@
+{
+  "version": "3.0.1",
+  "purpose": "Initial source-upload allowlist, not downloaded coursework.",
+  "files": [
+    {
+      "path": ".editorconfig",
+      "sha256": "3c16628b7476d17598ad976cecec79c3e5c7c296b9195660e7ab2ace2f349015"
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "28ae2052bc8899a1ffa245c29b6e95adc7fc12316e1f6aaaff5f6632246c0290"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "sha256": "0c43d9a8e2d7e3f0e3c54ea242f168387a98c1957842c738452a4c45322b7aa6"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e4b4a61a8e6908058b13467199f640b224cb4631b139add887eaa4ef702802ba"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "62be0114675397ee948703faefe10403a929e5c6cb90ee01e88daafbbe5b2923"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d50169d601084ed2e609dc9d0ab7a31c1d4884a044b67294e9396627ec77d324"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "e866755ae69ac9109791c7e115bbc18acc2d84017b274bb7ccaf40974abb8a6a"
+    },
+    {
+      "path": "TESTING.md",
+      "sha256": "47585d2f8406f4dc5ecba7580f9c61d31c136479eca4488b255b1189d7707af3"
+    },
+    {
+      "path": "docs/ACCESS_AND_AUTOMATION.md",
+      "sha256": "273d2dfebda5758c7d28312f46473d0877da22322d81d3f74d765e8e7094996d"
+    },
+    {
+      "path": "docs/PUBLISHING.md",
+      "sha256": "1723d49ae2d851fdb27768d85eef75e424086bb3f71eefba0a52fa0102bc7c81"
+    },
+    {
+      "path": "extension/asignaturas.json",
+      "sha256": "787752ce6e68fabaa2edf7d23077860ee7be584a8f4e17b3703ed2a316c743d5"
+    },
+    {
+      "path": "extension/background.js",
+      "sha256": "36333b9f36b60069385e43d1a4dc4a837295efcdfce9aaf1f7a4ea5082486b4a"
+    },
+    {
+      "path": "extension/bridge.js",
+      "sha256": "782a29b04914130660b4a0647153413e7441c24c2a9487bcfdc4ea4a4dbd3549"
+    },
+    {
+      "path": "extension/icons/128.png",
+      "sha256": "831f1d8c6bb8fe8659c39e004229c86f2eef467cbdfaf0a69227fbb26915b602"
+    },
+    {
+      "path": "extension/icons/16.png",
+      "sha256": "54c6c2d47b1ccb56628c0bd4ae1f162f6aa461ff2c5f8b1a428f9a678a50f161"
+    },
+    {
+      "path": "extension/icons/32.png",
+      "sha256": "15aedc266dbe53646abb71439e32739ee279cfb88d56d63a807c4aa0e99ac5c5"
+    },
+    {
+      "path": "extension/icons/48.png",
+      "sha256": "c828ae1e271e3c368d592f320b1f2d7749480b5acfef20cfd93af0f5cec189bb"
+    },
+    {
+      "path": "extension/lib/api.js",
+      "sha256": "9d4abb4ec1103eb732aff5bb5af52f86decbff0472e2b9994fffa78165740dd1"
+    },
+    {
+      "path": "extension/lib/availability.js",
+      "sha256": "2bef9c9490b44798fc1c0039903f6e006856327afc9dd0a6325d742b72ab4e05"
+    },
+    {
+      "path": "extension/lib/core.js",
+      "sha256": "c51daef1d3772736a2df9f8a5f03305c07426be96ed744f160a4a98509bcfd47"
+    },
+    {
+      "path": "extension/lib/downloader.js",
+      "sha256": "aff6ebc48431ec30efe6c4a1f64cb3eb790ae4be315d31f462d4355d8dd3fcae"
+    },
+    {
+      "path": "extension/lib/files.js",
+      "sha256": "e72ff73a9731063fcf5b4a608b0471cd02611240ae8f29654706a256503351a5"
+    },
+    {
+      "path": "extension/lib/html.js",
+      "sha256": "757b515366761aade945bf98a16c765505e19869a5b7d68210921d698be25e11"
+    },
+    {
+      "path": "extension/lib/layout.js",
+      "sha256": "afea434d42d597c68c6098a7da2c0128a1557ffef36a6409bc609a45c18f6bcb"
+    },
+    {
+      "path": "extension/lib/scanner.js",
+      "sha256": "b810f2e2b130fe3b0d5d49bcf4c9c19d645aa2d2b04afcc95d1699349e6bf49f"
+    },
+    {
+      "path": "extension/lib/tree.js",
+      "sha256": "f61168d6a937d1ee3db6d8142fd725c941824529cc3191ba669f7825ff50e31b"
+    },
+    {
+      "path": "extension/lib/zip.js",
+      "sha256": "6efaf5116c067e602ed59f538d082219688fdf978f7b249b13c07995d036daa0"
+    },
+    {
+      "path": "extension/manager.css",
+      "sha256": "c849b1750caf754ce921e9752b8368ef94c138d174032866ac8cb16d67ea30be"
+    },
+    {
+      "path": "extension/manager.html",
+      "sha256": "ed03d06ad6713937fbc50cc6c4abf617fd12b074cd646c8c2c9f6c7325e4665e"
+    },
+    {
+      "path": "extension/manager.js",
+      "sha256": "01dd7d728434ff619eb97c889de6241e63383a73556fea9a9c327a6c886e858d"
+    },
+    {
+      "path": "extension/manifest.json",
+      "sha256": "3852218017d71b97670422f9d493779d5b6f6d7ec038665f8e9e996bfae71b4f"
+    },
+    {
+      "path": "package.json",
+      "sha256": "895423203df80794f14d5da9846904dfc1f20b7128d4d56b0419b24f4d39888d"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "sha256": "eb9f77676c758aef273b01a04cbfaaec8c0cc1cad472af3f8ada60d2a37dd883"
+    },
+    {
+      "path": "scripts/check.mjs",
+      "sha256": "805db055f0d674a4007f7af86e325d1ce88820fadf1b47800543bca9356e828e"
+    },
+    {
+      "path": "scripts/package.py",
+      "sha256": "e2ca9ce6b343e92299537c00eaa8dd3072bc19c1141963ea748994bffc425b4d"
+    },
+    {
+      "path": "scripts/publish.py",
+      "sha256": "8863681d95cc049c0f8a2e53409674d35b91ecfcb67ce953a6e4fb64684ded8e"
+    },
+    {
+      "path": "scripts/test.mjs",
+      "sha256": "432cb703a60c900d2029f5214b41e9a7ff56447ce746be0529d902411ee1686d"
+    },
+    {
+      "path": "tests/availability.test.js",
+      "sha256": "7c0a53c611aabd9fef5d487cb52106093259e6febdfa3278ce8354daf5acebd6"
+    },
+    {
+      "path": "tests/bridge.test.js",
+      "sha256": "e2a696875ce6af26b1af4abc82f37ecd25b165018d29d5739583521032b86631"
+    },
+    {
+      "path": "tests/cleanup.test.js",
+      "sha256": "2372ea50215dc7acf523d6a8f10701e39fea4e8f7f1cbdc4544e36eaf6525913"
+    },
+    {
+      "path": "tests/core.test.js",
+      "sha256": "4e2b96edd3a99e29381e9b32aa363d7bb49e92799d3cd51e7f2e2f76808f647a"
+    },
+    {
+      "path": "tests/downloader.test.js",
+      "sha256": "de1fe80cbb41c7d1e3588e1f34d4fd88996e9d70dda724acaa9f6dc229da40c5"
+    },
+    {
+      "path": "tests/files.test.js",
+      "sha256": "3752cc9ace5e8515a18cb86c17b2f7ab154620abf9cc91b65e6b219bbd301c30"
+    },
+    {
+      "path": "tests/layout.test.js",
+      "sha256": "f28ec52ebb94c312b1d9144cb2372072a11a00b2295dec2b06ad4d5e345d2a2b"
+    },
+    {
+      "path": "tests/offline_browser_smoke.py",
+      "sha256": "f9faae301d2e2885ceab0bd9578bb6233b1ae8dbae194c41c8f285a4fd06e21f"
+    },
+    {
+      "path": "tests/offline_chrome_mock.js",
+      "sha256": "4a07fb3dca06bff9da6a33cf8612419b3c2a72f8ee9f4f453e47d9dc984b648f"
+    },
+    {
+      "path": "tests/publishing_test.py",
+      "sha256": "0ef6a56d271afbcebeac178106f599f2a9620097a3b5134ab7605e3f6124bb31"
+    },
+    {
+      "path": "tests/tree.test.js",
+      "sha256": "1b8bd55e3ac195e9b0a586e63a1104f2b868f30e268c036917e38406f8b99b65"
+    },
+    {
+      "path": "tests/zip.test.js",
+      "sha256": "e2cb16ec78dc56a59dcce6c67e97bea53bd6c171f074f7908061fc815e37dcfa"
+    }
+  ]
+}

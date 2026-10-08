@@ -1,0 +1,2 @@
+# Offline browser tests only. Installing or using the extension needs no Python.
+playwright==1.57.0
